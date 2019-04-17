@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1,Доктор
 http://83.246.178.12:81/udp/239.54.6.104:1224
+#EXTINF:-1,Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
 #EXTINF:-1,Здоровое ТВ 
 http://79.133.127.158:999/udp/239.191.254.99:13343
 #EXTINF:-1,Мама
