@@ -11,4 +11,6 @@ http://79.133.127.158:999/udp/239.191.254.120:13343
 http://79.133.127.158:999/udp/239.191.254.128:13343
 #EXTINF:-1,Еда Премиум HD
 http://now2.eaglecdn.com/stream/tveda_12/index.m3u8
+#EXTINF:-1,Магия Кухни ТВ
+http://sc.id-tv.kz/MagiyaKuhni_38_39.m3u8
 
