@@ -1,17 +1,541 @@
 #EXTM3U
-#EXTINF:-1,Afghanistan
-channels/af.m3u
-#EXTINF:-1,Albania
-channels/al.m3u
-#EXTINF:-1,Algeria
-channels/dz.m3u
-#EXTINF:-1,Argentina
-channels/ar.m3u
-#EXTINF:-1,Armenia
-channels/am.m3u
-#EXTINF:-1,Australia
-channels/au.m3u
-#EXTINF:-1,Austria
-channels/at.m3u
-#EXTINF:-1,Azerbaijan
-channels/az.m3u
+#EXTINF:0,Comedy TV
+http://stream.euroasia.lfstrm.tv/comedytv/1/index.m3u8
+#EXTINF:0,PARAMOUNT COMEDY
+http://stream.euroasia.lfstrm.tv/paramount_comedy_hd/1/index.m3u8
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.234:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://188.242.220.229:81/udp/239.239.4.27:5239
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.88.95:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.207.183:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.203.138:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.245.158:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.36:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.142:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://stream.euroasia.lfstrm.tv/paramount_comedy_hd/1/index.m3u8
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.207.183:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.203.138:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.88.95:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.36:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.142:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.9.154:7781/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://46.180.164.180:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.245.158:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.8:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.8:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.8:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://5.129.208.143:81/udp/239.72.6.73:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.88.95:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.245.158:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://46.180.164.180:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.65.248:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.207.183:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.64.79:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.101.216:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.142:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.208.36:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://158.46.245.158:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://46.180.164.180:4022/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://83.246.203.138:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://188.242.220.229:81/udp/239.239.4.27:5239
+#EXTINF:0,PARAMOUNT COMEDY
+http://46.181.116.168:81/udp/239.255.42.16:1234
+#EXTINF:0,PARAMOUNT COMEDY
+http://81.1.196.114:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://37.205.94.97:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY
+http://46.241.34.6:81/udp/239.54.6.38:1224
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://81.1.196.114:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://37.205.94.97:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://46.241.53.194:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://46.241.34.6:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://stream.euroasia.lfstrm.tv/paramount_comedy_hd/2/index.m3u8
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.142:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.234:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://stream.euroasia.lfstrm.tv/paramount_comedy_hd/2/index.m3u8
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.207.183:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.203.138:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://46.241.54.27:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://46.241.54.27:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://46.241.54.27:81/udp/239.54.5.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.8:81/udp/239.54.7.117:1234
+#EXTINF:0,PARAMOUNT COMEDY HD
+http://83.246.208.36:81/udp/239.54.7.117:1234
+#EXTINF:0,Sarafan
+http://109.171.48.206:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://stream.euroasia.lfstrm.tv/sarafan/index.m3u8
+#EXTINF:0,Sarafan
+http://109.171.48.206:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Sarafan
+http://stream.euroasia.lfstrm.tv/sarafan/index.m3u8
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Sarafan
+http://46.241.54.27:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Sarafan
+http://46.241.54.27:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://46.241.34.6:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://46.241.53.194:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://46.241.54.27:81/udp/239.54.7.129:1224
+#EXTINF:0,Sarafan
+http://178.159.52.230:34040/udp/239.255.11.28:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.72.186:81/udp/239.255.42.95:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.72.186:81/udp/239.255.42.95:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.88.95:4022/udp/239.255.42.95:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.72.186:81/udp/239.255.42.95:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.9.154:7781/udp/239.255.42.95:1234
+#EXTINF:0,Анекдот ТВ
+http://158.46.88.95:4022/udp/239.255.42.95:1234
+#EXTINF:0,КОМЕДИЯ
+http://128.69.96.195:4022/udp/233.33.210.57:5050
+#EXTINF:0,КОМЕДИЯ
+http://46.181.116.168:81/udp/239.255.42.43:1234
+#EXTINF:0,КОМЕДИЯ
+http://5.129.208.143:81/udp/239.72.6.63:1234
+#EXTINF:0,КОМЕДИЯ
+http://128.72.51.4:4022/udp/233.33.210.57:5050
+#EXTINF:0,КОМЕДИЯ
+http://128.69.96.195:4022/udp/233.33.210.57:5050
+#EXTINF:0,КОМЕДИЯ
+http://37.193.58.164:4022/udp/239.1.4.3:1234
+#EXTINF:0,КОМЕДИЯ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,КОМЕДИЯ
+http://158.46.64.79:81/udp/239.255.42.43:1234
+#EXTINF:0,КОМЕДИЯ
+http://37.193.58.164:4022/udp/239.1.4.3:1234
+#EXTINF:0,КОМЕДИЯ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,КОМЕДИЯ
+http://128.72.51.4:4022/udp/233.33.210.57:5050
+#EXTINF:0,КОМЕДИЯ
+http://158.46.64.79:81/udp/239.255.42.43:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://37.235.213.174:81/udp/225.50.64.36:1234
+#EXTINF:0,Кинокомедия
+http://158.46.9.154:7781/udp/239.255.42.43:1234
+#EXTINF:0,Кинокомедия
+http://158.46.88.95:4022/udp/239.255.42.43:1234
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Кинокомедия
+http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/145/index.m3u
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Кинокомедия
+http://46.180.164.180:4022/udp/239.255.42.43:1234
+#EXTINF:0,Кинокомедия
+http://178.159.52.230:34040/udp/239.255.11.41:1234
+#EXTINF:0,Кинокомедия
+http://37.235.213.174:81/udp/225.50.64.36:1234
+#EXTINF:0,Кинокомедия
+http://158.46.88.95:4022/udp/239.255.42.43:1234
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Кинокомедия
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.64.79:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://128.72.51.4:4022/udp/233.33.210.183:5050
+#EXTINF:0,Комедия ТВ
+http://158.46.64.79:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.101.216:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://5.129.208.143:81/udp/239.72.6.107:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://37.193.58.164:4022/udp/239.1.4.3:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.245.158:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.101.216:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://128.72.51.4:4022/udp/233.33.210.183:5050
+#EXTINF:0,Комедия ТВ
+http://158.46.101.216:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://37.193.58.164:4022/udp/239.1.4.3:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.101.216:81/udp/239.255.42.43:1234
+#EXTINF:0,Комедия ТВ
+http://158.46.65.248:81/udp/239.255.42.43:1234
+#EXTINF:0,Русская комедия
+http://5bb2f84d.suklakakl.site/iptv/KSM267HD3WH36Y/733/index.m3u
+#EXTINF:0,Русская комедия
+http://4f9cc916.ottv.info/iptv/G4FZPPQUWQ68DR/733/index.m3u8
+#EXTINF:0,САРАФАН ТВ
+http://92.43.140.249/s38/04.m3u8
+#EXTINF:0,САРАФАН ТВ
+http://92.43.140.249/s38/04.m3u8
+#EXTINF:0,СМАЙЛИК ТВ
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0,Сарафан
+http://stream.euroasia.lfstrm.tv/sarafan/0/index.m3u8
+#EXTINF:0,Сарафан
+http://83.246.208.234:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://stream.euroasia.lfstrm.tv/sarafan/0/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/03.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://5.129.208.143:81/udp/239.72.6.148:1234
+#EXTINF:0,Сарафан
+http://81.1.196.114:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://81.1.196.114:81/udp/239.54.6.129:1224
+#EXTINF:0,Сарафан
+http://81.1.196.114:81/udp/239.54.7.129:1224
+#EXTINF:0,Сарафан
+http://37.205.94.97:81/udp/239.54.6.129:1224
+#EXTINF:0,Сарафан
+http://37.205.94.97:81/udp/239.54.7.129:1224
+#EXTINF:0,Сарафан
+http://178.163.61.138:4022/udp/234.0.0.246:2000
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://109.248.236.41:4433/udp/238.1.1.28:1234
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://46.241.34.6:81/udp/239.54.6.129:1224
+#EXTINF:0,Сарафан
+http://83.246.208.8:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.208.8:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.208.8:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.208.36:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://83.246.207.183:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.203.138:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://37.193.58.164:4022/udp/239.1.2.11:1234
+#EXTINF:0,Сарафан
+http://178.163.12.35:4022/udp/234.0.0.246:2000
+#EXTINF:0,Сарафан
+http://83.246.203.138:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://37.193.58.164:4022/udp/239.1.2.11:1234
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/04.m3u8
+#EXTINF:0,Сарафан
+http://83.246.208.142:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://46.241.33.155:81/udp/239.54.7.129:1224
+#EXTINF:0,Сарафан
+http://46.241.33.155:81/udp/239.54.7.129:1224
+#EXTINF:0,Сарафан
+http://178.163.63.56:4022/udp/234.0.0.246:2000
+#EXTINF:0,Сарафан
+http://109.248.236.41:4433/udp/238.1.1.28:1234
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/03.m3u8
+#EXTINF:0,Сарафан
+http://83.246.207.183:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.208.36:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://83.246.208.142:81/udp/239.54.5.212:1224
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/index.m3u8
+#EXTINF:0,Сарафан
+http://ott-cdn.ucom.am/s38/03.m3u8
+#EXTINF:0,ТНТ_Комедия
+http://stream.euroasia.lfstrm.tv/comedytv/1/index.m3u8
+#EXTINF:0,ЮМОР
+http://83.246.208.234:81/udp/239.54.5.5:1224
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://128.72.51.4:4022/udp/233.33.210.171:5050
+#EXTINF:0,ЮМОР
+http://128.69.96.195:4022/udp/233.33.210.171:5050
+#EXTINF:0,ЮМОР
+http://5.129.208.143:81/udp/239.72.6.71:1234
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live-musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://158.46.88.95:4022/udp/239.255.42.195:1234
+#EXTINF:0,ЮМОР
+http://158.46.9.154:7781/udp/239.255.42.195:1234
+#EXTINF:0,ЮМОР
+http://128.69.96.195:4022/udp/233.33.210.171:5050
+#EXTINF:0,ЮМОР
+http://178.163.61.138:4022/udp/234.0.0.101:2000
+#EXTINF:0,ЮМОР
+http://95.29.92.67:8080/udp/233.33.210.171:5050
+#EXTINF:0,ЮМОР
+http://128.72.51.4:4022/udp/233.33.210.171:5050
+#EXTINF:0,ЮМОР
+http://158.46.88.95:4022/udp/239.255.42.195:1234
+#EXTINF:0,ЮМОР
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,ЮМОР
+http://178.163.63.56:4022/udp/234.0.0.101:2000
+#EXTINF:0,ЮМОР
+http://178.163.63.56:4022/udp/234.0.0.101:2000
+#EXTINF:0,Юмор Box
+http://46.181.116.168:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор Tv
+http://37.205.94.97:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://81.1.196.114:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.8:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.54.27:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.8:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.54.27:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.8:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.53.194:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.34.6:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.54.27:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.36:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.33.155:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.207.183:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.203.138:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.36:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.142:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.203.138:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.241.33.155:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.207.183:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://83.246.208.142:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор Tv
+http://46.180.164.180:4022/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,Юмор ТВ
+http://live.musicbox.cdnvideo.ru/musicbox2/humortv.sdp/playlist.m3u8
+#EXTINF:0,Юмор ТВ
+http://158.46.101.216:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.64.79:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.65.248:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://83.246.193.152:81/udp/239.54.5.5:1224
+#EXTINF:0,Юмор ТВ
+http://158.46.65.248:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.64.79:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.101.216:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.101.216:81/udp/239.255.42.195:1234
+#EXTINF:0,Юмор ТВ
+http://158.46.101.216:81/udp/239.255.42.195:1234
