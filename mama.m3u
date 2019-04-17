@@ -19,7 +19,11 @@ http://sc.id-tv.kz/MagiyaKuhni_38_39.m3u8
 http://streams.tv.mts.by/peretz_int/1/index.m3u8
 #EXTINF:-1,Домашний Int.
 http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1,014 Домашний
+http://5.100.102.44:4022/udp/224.3.20.23:1234
 #EXTINF:-1,Че
 http://178.217.110.199:4022/udp/224.0.90.161:1234
 #EXTINF:-1,Lifenews
 http://178.217.110.199:4022/udp/224.0.91.226:1234
+#EXTINF:-1,Pobeda test
+http://5.100.102.44:4022/udp/224.3.20.11:1234
